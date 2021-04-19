@@ -67,7 +67,7 @@ if __name__ == '__main__':
                 ax[0].clear();
                 ax[1].clear();
                 bT.write("CoolTag".encode("utf-8"));
-            elif (len(bTData) == 26):
+            else:
                 print(bTData);
     except Exception as ex:
         print(ex);
