@@ -1,9 +1,9 @@
-AVR BLE Accurate Humidity and Temperature Logger
+Accurate Humidity and Temperature Logger
 
 
 Features:
 
- - 8-bit ATmega328 AVR microcontroller [Arduino Nano]
+ - AVR 8-bit ATmega328 micro-controller [Arduino Nano]
  - I2C SHT3X high accuracy humidity and temperature sensor
- - UART serial BLE module
+ - UART serial general purpose BLE communication module
  - Real-time data visualization in Python
